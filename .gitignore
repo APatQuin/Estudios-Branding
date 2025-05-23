@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.csv
+*.xlsx
+.env
+.venv/
+env/
+venv/
+.ipynb_checkpoints
+.idea/
+.vscode/
+openai_key.txt
